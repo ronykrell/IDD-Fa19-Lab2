@@ -4,7 +4,7 @@ Include your responses to the bold questions below. Include snippets of code tha
 
 ## Part A. Solder your LCD panel
 
-![LCD picture](https://github.com/ronykrell/IDD-Fa18-Lab2/blob/master/soldered.JPG "LCD")
+![LCD picture](https://github.com/ronykrell/IDD-Fa19-Lab2/blob/master/soldered.JPG "LCD")
 
 
 ## Part B. Writing to the LCD
