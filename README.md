@@ -80,5 +80,7 @@ Set the timer to start, and get the middle LED before time runs out! Volume on!
 
 [LED Closeup](https://youtu.be/kWZPegpry50)
 
+[Code](https://github.com/ronykrell/IDD-Fa19-Lab2/blob/master/led_game/led_game.ino)
+
 **b. Post a link to the completed lab report your class hub GitHub repo.**
 
