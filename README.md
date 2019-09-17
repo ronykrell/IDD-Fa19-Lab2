@@ -59,7 +59,7 @@ The start wars theme song
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
 The timer is part of a game where the player stops the lights by pressing a button. To win, stop the light when the middle LED is lit. 
-Set the timer to start, and get the middle LED before time runs out!
+Set the timer to start, and get the middle LED before time runs out! Volume on!
 
 
 [Demo](https://youtu.be/2L-5r6BSOIg)
