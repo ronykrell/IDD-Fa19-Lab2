@@ -51,7 +51,7 @@ int noteDuration = 1000 / noteDurationLose[thisNote] / 2;
  
 **b. What song is playing?**
 
-The start wars theme song
+The star wars theme song
 
 
 ## Part E. Make your own timer
