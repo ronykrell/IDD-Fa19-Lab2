@@ -11,13 +11,24 @@ Include your responses to the bold questions below. Include snippets of code tha
  
 **a. What voltage level do you need to power your display?**
 
+5V (w/potentiometer)
+
 **b. What voltage level do you need to power the display backlight?**
+
+3.3V
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+Not wiring together the ground + power between the two halves of the right siderail. Fixed by connecting top & bottom ground + power siderail lines.
+
+
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+
+  lcd.print("hello, world!"); =>   lcd.print("Rony Krell");
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
+
+[Code for Lowly Multimeter](https://github.com/ronykrell/IDD-Fa19-Lab2/blob/master/LowlyVoltmeter.ino)
 
 
 ## Part C. Using a time-based digital sensor
