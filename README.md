@@ -33,7 +33,7 @@ Not wiring together the ground + power between the two halves of the right sider
 
 ## Part C. Using a time-based digital sensor
 
-**Upload a video of your working rotary encoder here.**
+
 [Rotary Encoder Video](https://youtu.be/SlvDI3g2yI4)
 
 
@@ -42,8 +42,12 @@ Not wiring together the ground + power between the two halves of the right sider
 **a. How would you change the code to make the song play twice as fast?**
 
 Divide the duration by 2:
+
 int noteDuration = 1000 / noteDurationLose[thisNote];
-   => int noteDuration = 1000 / noteDurationLose[thisNote] / 2;
+  
+   =>
+
+int noteDuration = 1000 / noteDurationLose[thisNote] / 2;
  
 **b. What song is playing?**
 
@@ -59,6 +63,7 @@ Set the timer to start, and get the middle LED before time runs out!
 
 
 [Demo](https://youtu.be/2L-5r6BSOIg)
+
 [LED Closeup](https://youtu.be/kWZPegpry50)
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
