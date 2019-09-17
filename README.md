@@ -1,5 +1,19 @@
 # Digital Timer
  
+
+
+Prelab ideas
+- Countdown alarm timer
+- Use the rotary encoder as a combination lock - spin right, left, right to "open" the lock and win
+- Time 2 button presses (press twice as fast as possible)
+- Stop the light game (stop light at middle LED before time runs out)
+- Stop a countdown at exactly '1' to win
+- Use timer to play 10 second song snippets
+- Display milliseconds and try to stop timer at exactly multiples of 1000 milliseonds (e.g. 1000, 2000, etc) - in other words at each second.
+- Blink LEDs in sync with timer - change every second
+- Play music in sync with timer - one note per second
+- Press a button to stop the timer to time how long it takes to say supercalifragilisticexpialidocious
+
 Include your responses to the bold questions below. Include snippets of code that explain what you did. Deliverables are due next Tuesday. Post your lab reports as README.md pages on your GitHub, and post a link to that on your main class hub page.
 
 ## Part A. Solder your LCD panel
@@ -67,3 +81,4 @@ Set the timer to start, and get the middle LED before time runs out! Volume on!
 [LED Closeup](https://youtu.be/kWZPegpry50)
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
+
